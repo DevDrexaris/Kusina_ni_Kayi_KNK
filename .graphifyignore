@@ -1,0 +1,9 @@
+KnK-Knowledge/
+graphify-out/
+frontend/node_modules/
+frontend/dist/
+Accounts.md
+.env
+.env.*
+**/.env
+**/.env.*

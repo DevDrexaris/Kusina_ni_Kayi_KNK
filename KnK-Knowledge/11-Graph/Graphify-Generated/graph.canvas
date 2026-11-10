@@ -1,0 +1,2836 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Community 0",
+      "x": 0,
+      "y": 0,
+      "width": 3080,
+      "height": 1420,
+      "color": "1"
+    },
+    {
+      "id": "n_frontend_package_devdependencies_prettier_plugin_php",
+      "type": "file",
+      "file": "@prettierplugin-php.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_prettier_plugin_php",
+      "type": "file",
+      "file": "@prettierplugin-php_1.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_devdependencies_types_react",
+      "type": "file",
+      "file": "@typesreact.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_types_react",
+      "type": "file",
+      "file": "@typesreact_1.md",
+      "x": 620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_devdependencies_types_react_dom",
+      "type": "file",
+      "file": "@typesreact-dom.md",
+      "x": 820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_types_react_dom",
+      "type": "file",
+      "file": "@typesreact-dom_1.md",
+      "x": 1020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_devdependencies_vitejs_plugin_react",
+      "type": "file",
+      "file": "@vitejsplugin-react.md",
+      "x": 1220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_vitejs_plugin_react",
+      "type": "file",
+      "file": "@vitejsplugin-react_1.md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_ai_project_knowledge",
+      "type": "file",
+      "file": "AI project knowledge.md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api_address",
+      "type": "file",
+      "file": "Address.md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_addressbook",
+      "type": "file",
+      "file": "AddressBook().md",
+      "x": 2020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_admin",
+      "type": "file",
+      "file": "Admin().md",
+      "x": 2220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_admincategories",
+      "type": "file",
+      "file": "AdminCategories().md",
+      "x": 2420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_adminnotifications",
+      "type": "file",
+      "file": "AdminNotifications().md",
+      "x": 2620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_adminorders",
+      "type": "file",
+      "file": "AdminOrders().md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_adminproducts",
+      "type": "file",
+      "file": "AdminProducts().md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_app",
+      "type": "file",
+      "file": "App().md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app",
+      "type": "file",
+      "file": "App.tsx.md",
+      "x": 620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_appcontent",
+      "type": "file",
+      "file": "AppContent().md",
+      "x": 820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_auth",
+      "type": "file",
+      "file": "Auth().md",
+      "x": 1020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_authenticatedloadingscreen",
+      "type": "file",
+      "file": "AuthenticatedLoadingScreen().md",
+      "x": 1220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_brand",
+      "type": "file",
+      "file": "Brand().md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_cart_cart",
+      "type": "file",
+      "file": "Cart().md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_cart",
+      "type": "file",
+      "file": "Cart.tsx.md",
+      "x": 1820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_cartitem",
+      "type": "file",
+      "file": "CartItem.md",
+      "x": 2020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_cart_cartitem",
+      "type": "file",
+      "file": "CartItem_1.md",
+      "x": 2220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api_category",
+      "type": "file",
+      "file": "Category.md",
+      "x": 2420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_customer",
+      "type": "file",
+      "file": "Customer().md",
+      "x": 2620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_customerdetails",
+      "type": "file",
+      "file": "CustomerDetails().md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_dashboard",
+      "type": "file",
+      "file": "Dashboard().md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_dashboarddecorations",
+      "type": "file",
+      "file": "DashboardDecorations().md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_editproduct",
+      "type": "file",
+      "file": "EditProduct().md",
+      "x": 620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_empty",
+      "type": "file",
+      "file": "Empty().md",
+      "x": 820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_cart_empty",
+      "type": "file",
+      "file": "Empty()_1.md",
+      "x": 1020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_features",
+      "type": "file",
+      "file": "Features.md",
+      "x": 1220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_knk_agent_instructions",
+      "type": "file",
+      "file": "KNK-AGENT-INSTRUCTIONS.md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_knk_agent_instructions_knk_agent_instructions",
+      "type": "file",
+      "file": "KnK Agent Instructions.md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_legacycart",
+      "type": "file",
+      "file": "LegacyCart().md",
+      "x": 1820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_logindecorations",
+      "type": "file",
+      "file": "LoginDecorations().md",
+      "x": 2020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_loginloadingscreen",
+      "type": "file",
+      "file": "LoginLoadingScreen().md",
+      "x": 2220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api_manageduser",
+      "type": "file",
+      "file": "ManagedUser.md",
+      "x": 2420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_menupage",
+      "type": "file",
+      "file": "MenuPage().md",
+      "x": 2620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_modal",
+      "type": "file",
+      "file": "Modal().md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api_order",
+      "type": "file",
+      "file": "Order.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_ordertable",
+      "type": "file",
+      "file": "OrderTable().md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_orders",
+      "type": "file",
+      "file": "Orders().md",
+      "x": 620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pdo",
+      "type": "file",
+      "file": "PDO.md",
+      "x": 820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_pagetitle",
+      "type": "file",
+      "file": "PageTitle().md",
+      "x": 1020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_cart_pagetitle",
+      "type": "file",
+      "file": "PageTitle()_1.md",
+      "x": 1220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api_product",
+      "type": "file",
+      "file": "Product.md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_productimage",
+      "type": "file",
+      "file": "ProductImage().md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme",
+      "type": "file",
+      "file": "README.md",
+      "x": 1820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_ratingmodal",
+      "type": "file",
+      "file": "RatingModal().md",
+      "x": 2020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_riderassignmentsheet",
+      "type": "file",
+      "file": "RiderAssignmentSheet().md",
+      "x": 2220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_riderdashboard",
+      "type": "file",
+      "file": "RiderDashboard().md",
+      "x": 2420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_ridernotifications",
+      "type": "file",
+      "file": "RiderNotifications().md",
+      "x": 2620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_sheet",
+      "type": "file",
+      "file": "Sheet().md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_shell",
+      "type": "file",
+      "file": "Shell().md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_staffcustomers",
+      "type": "file",
+      "file": "StaffCustomers().md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_staffdashboard",
+      "type": "file",
+      "file": "StaffDashboard().md",
+      "x": 620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_staffhistory",
+      "type": "file",
+      "file": "StaffHistory().md",
+      "x": 820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_staffnotifications",
+      "type": "file",
+      "file": "StaffNotifications().md",
+      "x": 1020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_stafforders",
+      "type": "file",
+      "file": "StaffOrders().md",
+      "x": 1220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_successoverlay",
+      "type": "file",
+      "file": "SuccessOverlay().md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_teammanagement",
+      "type": "file",
+      "file": "TeamManagement().md",
+      "x": 1620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_toast",
+      "type": "file",
+      "file": "Toast().md",
+      "x": 1820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api_user",
+      "type": "file",
+      "file": "User.md",
+      "x": 2020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_usermanagement",
+      "type": "file",
+      "file": "UserManagement().md",
+      "x": 2220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_usernotifications",
+      "type": "file",
+      "file": "UserNotifications().md",
+      "x": 2420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_what_i_use",
+      "type": "file",
+      "file": "What I use.md",
+      "x": 2620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_addresses",
+      "type": "file",
+      "file": "addresses.php.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_admingreetings",
+      "type": "file",
+      "file": "adminGreetings.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_allowimportingtsextensions",
+      "type": "file",
+      "file": "allowImportingTsExtensions.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_allowjs",
+      "type": "file",
+      "file": "allowJs.md",
+      "x": 620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_allowsyntheticdefaultimports",
+      "type": "file",
+      "file": "allowSyntheticDefaultImports.md",
+      "x": 820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api_api",
+      "type": "file",
+      "file": "api.md",
+      "x": 1020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_helpers_api",
+      "type": "file",
+      "file": "api.php.md",
+      "x": 1220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api",
+      "type": "file",
+      "file": "api.ts.md",
+      "x": 1420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_auth",
+      "type": "file",
+      "file": "apiauth.php.md",
+      "x": 1620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_cart_blankaddress",
+      "type": "file",
+      "file": "blankAddress.md",
+      "x": 1820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_scripts_build",
+      "type": "file",
+      "file": "build.md",
+      "x": 2020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database_categories",
+      "type": "file",
+      "file": "categories.md",
+      "x": 2220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_categories",
+      "type": "file",
+      "file": "categories.php.md",
+      "x": 2420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions",
+      "type": "file",
+      "file": "compilerOptions.md",
+      "x": 2620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions",
+      "type": "file",
+      "file": "compilerOptions_1.md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_helpers_auth_current_user",
+      "type": "file",
+      "file": "current_user().md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database_customer_addresses",
+      "type": "file",
+      "file": "customer_addresses.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_role_migration_customer_addresses",
+      "type": "file",
+      "file": "customer_addresses_1.md",
+      "x": 620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_config_database",
+      "type": "file",
+      "file": "database.php.md",
+      "x": 820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_config_database_db",
+      "type": "file",
+      "file": "db().md",
+      "x": 1020,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database_delivery_assignments",
+      "type": "file",
+      "file": "delivery_assignments.md",
+      "x": 1220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_role_migration_delivery_assignments",
+      "type": "file",
+      "file": "delivery_assignments_1.md",
+      "x": 1420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_dependencies",
+      "type": "file",
+      "file": "dependencies.md",
+      "x": 1620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_scripts_dev",
+      "type": "file",
+      "file": "dev.md",
+      "x": 1820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_devdependencies",
+      "type": "file",
+      "file": "devDependencies.md",
+      "x": 2020,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_esmoduleinterop",
+      "type": "file",
+      "file": "esModuleInterop.md",
+      "x": 2220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_files",
+      "type": "file",
+      "file": "files.md",
+      "x": 2420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_flytocart",
+      "type": "file",
+      "file": "flyToCart().md",
+      "x": 2620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_forceconsistentcasinginfilenames",
+      "type": "file",
+      "file": "forceConsistentCasingInFileNames.md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_index",
+      "type": "file",
+      "file": "frontend_src_index.md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_get_notifications",
+      "type": "file",
+      "file": "get_notifications.php.md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_get_user_notifications",
+      "type": "file",
+      "file": "get_user_notifications.php.md",
+      "x": 620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_helpers_auth",
+      "type": "file",
+      "file": "helpersauth.php.md",
+      "x": 820,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_include",
+      "type": "file",
+      "file": "include.md",
+      "x": 1020,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_include",
+      "type": "file",
+      "file": "include_1.md",
+      "x": 1220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_helpers_api_input",
+      "type": "file",
+      "file": "input().md",
+      "x": 1420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_isauthenticateduser",
+      "type": "file",
+      "file": "isAuthenticatedUser().md",
+      "x": 1620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_isorderrated",
+      "type": "file",
+      "file": "isOrderRated().md",
+      "x": 1820,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_isolatedmodules",
+      "type": "file",
+      "file": "isolatedModules.md",
+      "x": 2020,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_helpers_api_json_response",
+      "type": "file",
+      "file": "json_response().md",
+      "x": 2220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_jsx",
+      "type": "file",
+      "file": "jsx.md",
+      "x": 2420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database",
+      "type": "file",
+      "file": "knk_database.sql.md",
+      "x": 2620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_lib",
+      "type": "file",
+      "file": "lib.md",
+      "x": 20,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_lib",
+      "type": "file",
+      "file": "lib_1.md",
+      "x": 220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_dependencies_lucide_react",
+      "type": "file",
+      "file": "lucide-react.md",
+      "x": 420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_lucide_react",
+      "type": "file",
+      "file": "lucide-react_1.md",
+      "x": 620,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_main",
+      "type": "file",
+      "file": "main.tsx.md",
+      "x": 820,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_module",
+      "type": "file",
+      "file": "module.md",
+      "x": 1020,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_module",
+      "type": "file",
+      "file": "module_1.md",
+      "x": 1220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_moduledetection",
+      "type": "file",
+      "file": "moduleDetection.md",
+      "x": 1420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_moduleresolution",
+      "type": "file",
+      "file": "moduleResolution.md",
+      "x": 1620,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_moduleresolution",
+      "type": "file",
+      "file": "moduleResolution_1.md",
+      "x": 1820,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_name",
+      "type": "file",
+      "file": "name.md",
+      "x": 2020,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_noemit",
+      "type": "file",
+      "file": "noEmit.md",
+      "x": 2220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_noemit",
+      "type": "file",
+      "file": "noEmit_1.md",
+      "x": 2420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database_order_items",
+      "type": "file",
+      "file": "order_items.md",
+      "x": 2620,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database_order_ratings",
+      "type": "file",
+      "file": "order_ratings.md",
+      "x": 20,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_role_migration_order_ratings",
+      "type": "file",
+      "file": "order_ratings_1.md",
+      "x": 220,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database_orders",
+      "type": "file",
+      "file": "orders.md",
+      "x": 420,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_orders",
+      "type": "file",
+      "file": "orders.php.md",
+      "x": 620,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package",
+      "type": "file",
+      "file": "package.json.md",
+      "x": 820,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_peso",
+      "type": "file",
+      "file": "peso().md",
+      "x": 1020,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_cart_peso",
+      "type": "file",
+      "file": "peso()_1.md",
+      "x": 1220,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_devdependencies_prettier",
+      "type": "file",
+      "file": "prettier.md",
+      "x": 1420,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_prettier",
+      "type": "file",
+      "file": "prettier_1.md",
+      "x": 1620,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_scripts_preview",
+      "type": "file",
+      "file": "preview.md",
+      "x": 1820,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_private",
+      "type": "file",
+      "file": "private.md",
+      "x": 2020,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_productimageurl",
+      "type": "file",
+      "file": "productImageUrl().md",
+      "x": 2220,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database_products",
+      "type": "file",
+      "file": "products.md",
+      "x": 2420,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_products",
+      "type": "file",
+      "file": "products.php.md",
+      "x": 2620,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_app_randomadmingreeting",
+      "type": "file",
+      "file": "randomAdminGreeting().md",
+      "x": 20,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_ratings",
+      "type": "file",
+      "file": "ratings.php.md",
+      "x": 220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_dependencies_react",
+      "type": "file",
+      "file": "react.md",
+      "x": 420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_react",
+      "type": "file",
+      "file": "react_1.md",
+      "x": 620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_dependencies_react_dom",
+      "type": "file",
+      "file": "react-dom.md",
+      "x": 820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_react_dom",
+      "type": "file",
+      "file": "react-dom_1.md",
+      "x": 1020,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_dependencies_react_router_dom",
+      "type": "file",
+      "file": "react-router-dom.md",
+      "x": 1220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_react_router_dom",
+      "type": "file",
+      "file": "react-router-dom_1.md",
+      "x": 1420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_references",
+      "type": "file",
+      "file": "references.md",
+      "x": 1620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_api_request",
+      "type": "file",
+      "file": "request().md",
+      "x": 1820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_helpers_auth_require_auth",
+      "type": "file",
+      "file": "require_auth().md",
+      "x": 2020,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_helpers_api_require_method",
+      "type": "file",
+      "file": "require_method().md",
+      "x": 2220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_resolvejsonmodule",
+      "type": "file",
+      "file": "resolveJsonModule.md",
+      "x": 2420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_role_migration",
+      "type": "file",
+      "file": "role_migration.sql.md",
+      "x": 2620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_scripts",
+      "type": "file",
+      "file": "scripts.md",
+      "x": 20,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_setup_seed_admin",
+      "type": "file",
+      "file": "seed_admin.php.md",
+      "x": 220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_skiplibcheck",
+      "type": "file",
+      "file": "skipLibCheck.md",
+      "x": 420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_skiplibcheck",
+      "type": "file",
+      "file": "skipLibCheck_1.md",
+      "x": 620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_backend_api_stats",
+      "type": "file",
+      "file": "stats.php.md",
+      "x": 820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_strict",
+      "type": "file",
+      "file": "strict.md",
+      "x": 1020,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_strict",
+      "type": "file",
+      "file": "strict_1.md",
+      "x": 1220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_public_sw",
+      "type": "file",
+      "file": "sw.js.md",
+      "x": 1420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_target",
+      "type": "file",
+      "file": "target.md",
+      "x": 1620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_target",
+      "type": "file",
+      "file": "target_1.md",
+      "x": 1820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_tsbuildinfofile",
+      "type": "file",
+      "file": "tsBuildInfoFile.md",
+      "x": 2020,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_tsbuildinfofile",
+      "type": "file",
+      "file": "tsBuildInfoFile_1.md",
+      "x": 2220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app",
+      "type": "file",
+      "file": "tsconfig.app.json.md",
+      "x": 2420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig",
+      "type": "file",
+      "file": "tsconfig.json.md",
+      "x": 2620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node",
+      "type": "file",
+      "file": "tsconfig.node.json.md",
+      "x": 20,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_type",
+      "type": "file",
+      "file": "type.md",
+      "x": 220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_devdependencies_typescript",
+      "type": "file",
+      "file": "typescript.md",
+      "x": 420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_typescript",
+      "type": "file",
+      "file": "typescript_1.md",
+      "x": 620,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_app_compileroptions_usedefineforclassfields",
+      "type": "file",
+      "file": "useDefineForClassFields.md",
+      "x": 820,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_knk_database_users",
+      "type": "file",
+      "file": "users.md",
+      "x": 1020,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_tsconfig_node_compileroptions_verbatimmodulesyntax",
+      "type": "file",
+      "file": "verbatimModuleSyntax.md",
+      "x": 1220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_version",
+      "type": "file",
+      "file": "version.md",
+      "x": 1420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_package_devdependencies_vite",
+      "type": "file",
+      "file": "vite.md",
+      "x": 1620,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_vite",
+      "type": "file",
+      "file": "vite_1.md",
+      "x": 1820,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_src_vite_env_d",
+      "type": "file",
+      "file": "vite-env.d.ts.md",
+      "x": 2020,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_frontend_vite_config",
+      "type": "file",
+      "file": "vite.config.ts.md",
+      "x": 2220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_backend_config_database_backend_config_database_db",
+      "fromNode": "n_backend_config_database",
+      "toNode": "n_backend_config_database_db",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_config_database_db_pdo",
+      "fromNode": "n_backend_config_database_db",
+      "toNode": "n_pdo",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_config_database_db_pdo",
+      "fromNode": "n_backend_config_database_db",
+      "toNode": "n_pdo",
+      "label": "references_constant [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_helpers_auth_require_auth_backend_config_database_db",
+      "fromNode": "n_backend_helpers_auth_require_auth",
+      "toNode": "n_backend_config_database_db",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_backend_helpers_api_backend_helpers_api_json_response",
+      "fromNode": "n_backend_helpers_api",
+      "toNode": "n_backend_helpers_api_json_response",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_helpers_api_backend_helpers_api_input",
+      "fromNode": "n_backend_helpers_api",
+      "toNode": "n_backend_helpers_api_input",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_helpers_api_backend_helpers_api_require_method",
+      "fromNode": "n_backend_helpers_api",
+      "toNode": "n_backend_helpers_api_require_method",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_helpers_api_require_method_backend_helpers_api_json_response",
+      "fromNode": "n_backend_helpers_api_require_method",
+      "toNode": "n_backend_helpers_api_json_response",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_helpers_auth_require_auth_backend_helpers_api_json_response",
+      "fromNode": "n_backend_helpers_auth_require_auth",
+      "toNode": "n_backend_helpers_api_json_response",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_backend_helpers_auth_backend_helpers_auth_current_user",
+      "fromNode": "n_backend_helpers_auth",
+      "toNode": "n_backend_helpers_auth_current_user",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_helpers_auth_backend_helpers_auth_require_auth",
+      "fromNode": "n_backend_helpers_auth",
+      "toNode": "n_backend_helpers_auth_require_auth",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_backend_helpers_auth_require_auth_backend_helpers_auth_current_user",
+      "fromNode": "n_backend_helpers_auth_require_auth",
+      "toNode": "n_backend_helpers_auth_current_user",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_database_knk_database_users",
+      "fromNode": "n_database_knk_database",
+      "toNode": "n_database_knk_database_users",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_database_knk_database_customer_addresses",
+      "fromNode": "n_database_knk_database",
+      "toNode": "n_database_knk_database_customer_addresses",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_database_knk_database_categories",
+      "fromNode": "n_database_knk_database",
+      "toNode": "n_database_knk_database_categories",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_database_knk_database_products",
+      "fromNode": "n_database_knk_database",
+      "toNode": "n_database_knk_database_products",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_database_knk_database_orders",
+      "fromNode": "n_database_knk_database",
+      "toNode": "n_database_knk_database_orders",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_database_knk_database_delivery_assignments",
+      "fromNode": "n_database_knk_database",
+      "toNode": "n_database_knk_database_delivery_assignments",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_database_knk_database_order_items",
+      "fromNode": "n_database_knk_database",
+      "toNode": "n_database_knk_database_order_items",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_database_knk_database_order_ratings",
+      "fromNode": "n_database_knk_database",
+      "toNode": "n_database_knk_database_order_ratings",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_customer_addresses_database_knk_database_users",
+      "fromNode": "n_database_knk_database_customer_addresses",
+      "toNode": "n_database_knk_database_users",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_orders_database_knk_database_users",
+      "fromNode": "n_database_knk_database_orders",
+      "toNode": "n_database_knk_database_users",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_delivery_assignments_database_knk_database_users",
+      "fromNode": "n_database_knk_database_delivery_assignments",
+      "toNode": "n_database_knk_database_users",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_order_ratings_database_knk_database_users",
+      "fromNode": "n_database_knk_database_order_ratings",
+      "toNode": "n_database_knk_database_users",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_role_migration_delivery_assignments_database_knk_database_users",
+      "fromNode": "n_database_role_migration_delivery_assignments",
+      "toNode": "n_database_knk_database_users",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_role_migration_order_ratings_database_knk_database_users",
+      "fromNode": "n_database_role_migration_order_ratings",
+      "toNode": "n_database_knk_database_users",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_role_migration_customer_addresses_database_knk_database_users",
+      "fromNode": "n_database_role_migration_customer_addresses",
+      "toNode": "n_database_knk_database_users",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_products_database_knk_database_categories",
+      "fromNode": "n_database_knk_database_products",
+      "toNode": "n_database_knk_database_categories",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_order_items_database_knk_database_products",
+      "fromNode": "n_database_knk_database_order_items",
+      "toNode": "n_database_knk_database_products",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_delivery_assignments_database_knk_database_orders",
+      "fromNode": "n_database_knk_database_delivery_assignments",
+      "toNode": "n_database_knk_database_orders",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_order_items_database_knk_database_orders",
+      "fromNode": "n_database_knk_database_order_items",
+      "toNode": "n_database_knk_database_orders",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_knk_database_order_ratings_database_knk_database_orders",
+      "fromNode": "n_database_knk_database_order_ratings",
+      "toNode": "n_database_knk_database_orders",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_role_migration_delivery_assignments_database_knk_database_orders",
+      "fromNode": "n_database_role_migration_delivery_assignments",
+      "toNode": "n_database_knk_database_orders",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_role_migration_order_ratings_database_knk_database_orders",
+      "fromNode": "n_database_role_migration_order_ratings",
+      "toNode": "n_database_knk_database_orders",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_role_migration_database_role_migration_delivery_assignments",
+      "fromNode": "n_database_role_migration",
+      "toNode": "n_database_role_migration_delivery_assignments",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_role_migration_database_role_migration_order_ratings",
+      "fromNode": "n_database_role_migration",
+      "toNode": "n_database_role_migration_order_ratings",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_database_role_migration_database_role_migration_customer_addresses",
+      "fromNode": "n_database_role_migration",
+      "toNode": "n_database_role_migration_customer_addresses",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_frontend_package_name",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_frontend_package_name",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_frontend_package_private",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_frontend_package_private",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_frontend_package_version",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_frontend_package_version",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_frontend_package_type",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_frontend_package_type",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_frontend_package_scripts",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_frontend_package_scripts",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_frontend_package_dependencies",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_frontend_package_dependencies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_lucide_react",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_lucide_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_react",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_react_dom",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_react_dom",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_react_router_dom",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_react_router_dom",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_frontend_package_devdependencies",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_frontend_package_devdependencies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_prettier_plugin_php",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_prettier_plugin_php",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_types_react",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_types_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_types_react_dom",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_types_react_dom",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_vitejs_plugin_react",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_vitejs_plugin_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_prettier",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_prettier",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_typescript",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_typescript",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_ref_vite",
+      "fromNode": "n_frontend_package",
+      "toNode": "n_ref_vite",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_scripts_frontend_package_scripts_dev",
+      "fromNode": "n_frontend_package_scripts",
+      "toNode": "n_frontend_package_scripts_dev",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_scripts_frontend_package_scripts_build",
+      "fromNode": "n_frontend_package_scripts",
+      "toNode": "n_frontend_package_scripts_build",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_scripts_frontend_package_scripts_preview",
+      "fromNode": "n_frontend_package_scripts",
+      "toNode": "n_frontend_package_scripts_preview",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_dependencies_frontend_package_dependencies_lucide_react",
+      "fromNode": "n_frontend_package_dependencies",
+      "toNode": "n_frontend_package_dependencies_lucide_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_dependencies_frontend_package_dependencies_react",
+      "fromNode": "n_frontend_package_dependencies",
+      "toNode": "n_frontend_package_dependencies_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_dependencies_frontend_package_dependencies_react_dom",
+      "fromNode": "n_frontend_package_dependencies",
+      "toNode": "n_frontend_package_dependencies_react_dom",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_dependencies_frontend_package_dependencies_react_router_dom",
+      "fromNode": "n_frontend_package_dependencies",
+      "toNode": "n_frontend_package_dependencies_react_router_dom",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_ref_lucide_react",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_ref_lucide_react",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_cart_ref_lucide_react",
+      "fromNode": "n_frontend_src_cart",
+      "toNode": "n_ref_lucide_react",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_ref_react",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_ref_react",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_cart_ref_react",
+      "fromNode": "n_frontend_src_cart",
+      "toNode": "n_ref_react",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_main_ref_react",
+      "fromNode": "n_frontend_src_main",
+      "toNode": "n_ref_react",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_ref_react_dom",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_ref_react_dom",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_main_ref_react_dom",
+      "fromNode": "n_frontend_src_main",
+      "toNode": "n_ref_react_dom",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_ref_react_router_dom",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_ref_react_router_dom",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_devdependencies_frontend_package_devdependencies_prettier_plugin_php",
+      "fromNode": "n_frontend_package_devdependencies",
+      "toNode": "n_frontend_package_devdependencies_prettier_plugin_php",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_devdependencies_frontend_package_devdependencies_types_react",
+      "fromNode": "n_frontend_package_devdependencies",
+      "toNode": "n_frontend_package_devdependencies_types_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_devdependencies_frontend_package_devdependencies_types_react_dom",
+      "fromNode": "n_frontend_package_devdependencies",
+      "toNode": "n_frontend_package_devdependencies_types_react_dom",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_devdependencies_frontend_package_devdependencies_vitejs_plugin_react",
+      "fromNode": "n_frontend_package_devdependencies",
+      "toNode": "n_frontend_package_devdependencies_vitejs_plugin_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_devdependencies_frontend_package_devdependencies_prettier",
+      "fromNode": "n_frontend_package_devdependencies",
+      "toNode": "n_frontend_package_devdependencies_prettier",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_devdependencies_frontend_package_devdependencies_typescript",
+      "fromNode": "n_frontend_package_devdependencies",
+      "toNode": "n_frontend_package_devdependencies_typescript",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_package_devdependencies_frontend_package_devdependencies_vite",
+      "fromNode": "n_frontend_package_devdependencies",
+      "toNode": "n_frontend_package_devdependencies_vite",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_vite_config_ref_vitejs_plugin_react",
+      "fromNode": "n_frontend_vite_config",
+      "toNode": "n_ref_vitejs_plugin_react",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_vite_config_ref_vite",
+      "fromNode": "n_frontend_vite_config",
+      "toNode": "n_ref_vite",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_api",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_api",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_api_api",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_api_api",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_api_address",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_api_address",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_api_category",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_api_category",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_api_manageduser",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_api_manageduser",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_api_order",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_api_order",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_api_product",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_api_product",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_api_user",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_api_user",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_cart",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_cart",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_cartitem",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_cartitem",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_isauthenticateduser",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_isauthenticateduser",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_isorderrated",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_isorderrated",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_productimageurl",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_productimageurl",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_productimage",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_productimage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_addressbook",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_addressbook",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_admingreetings",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_admingreetings",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_randomadmingreeting",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_randomadmingreeting",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_brand",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_brand",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_authenticatedloadingscreen",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_authenticatedloadingscreen",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_loginloadingscreen",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_loginloadingscreen",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_logindecorations",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_logindecorations",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_dashboarddecorations",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_dashboarddecorations",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_toast",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_toast",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_adminnotifications",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_adminnotifications",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_usernotifications",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_usernotifications",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_ridernotifications",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_ridernotifications",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_shell",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_shell",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_auth",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_auth",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_menupage",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_menupage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_modal",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_modal",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_ratingmodal",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_ratingmodal",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_sheet",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_sheet",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_successoverlay",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_successoverlay",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_flytocart",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_flytocart",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_empty",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_empty",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_customer",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_customer",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_legacycart",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_legacycart",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_orders",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_orders",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_staffdashboard",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_staffdashboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_riderassignmentsheet",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_riderassignmentsheet",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_stafforders",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_stafforders",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_staffhistory",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_staffhistory",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_customerdetails",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_customerdetails",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_staffcustomers",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_staffcustomers",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_staffnotifications",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_staffnotifications",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_riderdashboard",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_riderdashboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_teammanagement",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_teammanagement",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_admin",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_admin",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_usermanagement",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_usermanagement",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_dashboard",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_dashboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_ordertable",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_ordertable",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_adminorders",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_adminorders",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_adminproducts",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_adminproducts",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_editproduct",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_editproduct",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_admincategories",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_admincategories",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_appcontent",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_appcontent",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_app_app",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_app_app",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_main_frontend_src_app",
+      "fromNode": "n_frontend_src_main",
+      "toNode": "n_frontend_src_app",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_frontend_src_cart_cart",
+      "fromNode": "n_frontend_src_app",
+      "toNode": "n_frontend_src_cart_cart",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_menupage_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_menupage",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_legacycart_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_legacycart",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_orders_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_orders",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_customerdetails_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_customerdetails",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_staffnotifications_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_staffnotifications",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_riderdashboard_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_riderdashboard",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_dashboard_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_dashboard",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_ordertable_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_ordertable",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_adminproducts_frontend_src_app_peso",
+      "fromNode": "n_frontend_src_app_adminproducts",
+      "toNode": "n_frontend_src_app_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_auth_frontend_src_app_isauthenticateduser",
+      "fromNode": "n_frontend_src_app_auth",
+      "toNode": "n_frontend_src_app_isauthenticateduser",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_appcontent_frontend_src_app_isauthenticateduser",
+      "fromNode": "n_frontend_src_app_appcontent",
+      "toNode": "n_frontend_src_app_isauthenticateduser",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_orders_frontend_src_app_isorderrated",
+      "fromNode": "n_frontend_src_app_orders",
+      "toNode": "n_frontend_src_app_isorderrated",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_ordertable_frontend_src_app_isorderrated",
+      "fromNode": "n_frontend_src_app_ordertable",
+      "toNode": "n_frontend_src_app_isorderrated",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_productimage_frontend_src_app_productimageurl",
+      "fromNode": "n_frontend_src_app_productimage",
+      "toNode": "n_frontend_src_app_productimageurl",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_customer_frontend_src_app_productimageurl",
+      "fromNode": "n_frontend_src_app_customer",
+      "toNode": "n_frontend_src_app_productimageurl",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_menupage_frontend_src_app_productimage",
+      "fromNode": "n_frontend_src_app_menupage",
+      "toNode": "n_frontend_src_app_productimage",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_addressbook_frontend_src_app_sheet",
+      "fromNode": "n_frontend_src_app_addressbook",
+      "toNode": "n_frontend_src_app_sheet",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_customer_frontend_src_app_addressbook",
+      "fromNode": "n_frontend_src_app_customer",
+      "toNode": "n_frontend_src_app_addressbook",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_dashboard_frontend_src_app_randomadmingreeting",
+      "fromNode": "n_frontend_src_app_dashboard",
+      "toNode": "n_frontend_src_app_randomadmingreeting",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_frontend_src_app_shell_frontend_src_app_brand",
+      "fromNode": "n_frontend_src_app_shell",
+      "toNode": "n_frontend_src_app_brand",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_auth_frontend_src_app_brand",
+      "fromNode": "n_frontend_src_app_auth",
+      "toNode": "n_frontend_src_app_brand",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_authenticatedloadingscreen_frontend_src_app_dashboarddecorations",
+      "fromNode": "n_frontend_src_app_authenticatedloadingscreen",
+      "toNode": "n_frontend_src_app_dashboarddecorations",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_appcontent_frontend_src_app_authenticatedloadingscreen",
+      "fromNode": "n_frontend_src_app_appcontent",
+      "toNode": "n_frontend_src_app_authenticatedloadingscreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_auth_frontend_src_app_loginloadingscreen",
+      "fromNode": "n_frontend_src_app_auth",
+      "toNode": "n_frontend_src_app_loginloadingscreen",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_auth_frontend_src_app_logindecorations",
+      "fromNode": "n_frontend_src_app_auth",
+      "toNode": "n_frontend_src_app_logindecorations",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_shell_frontend_src_app_dashboarddecorations",
+      "fromNode": "n_frontend_src_app_shell",
+      "toNode": "n_frontend_src_app_dashboarddecorations",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_customer_frontend_src_app_toast",
+      "fromNode": "n_frontend_src_app_customer",
+      "toNode": "n_frontend_src_app_toast",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_orders_frontend_src_app_toast",
+      "fromNode": "n_frontend_src_app_orders",
+      "toNode": "n_frontend_src_app_toast",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_adminnotifications_frontend_src_app_modal",
+      "fromNode": "n_frontend_src_app_adminnotifications",
+      "toNode": "n_frontend_src_app_modal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_shell_frontend_src_app_adminnotifications",
+      "fromNode": "n_frontend_src_app_shell",
+      "toNode": "n_frontend_src_app_adminnotifications",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_shell_frontend_src_app_usernotifications",
+      "fromNode": "n_frontend_src_app_shell",
+      "toNode": "n_frontend_src_app_usernotifications",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_shell_frontend_src_app_ridernotifications",
+      "fromNode": "n_frontend_src_app_shell",
+      "toNode": "n_frontend_src_app_ridernotifications",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_customer_frontend_src_app_shell",
+      "fromNode": "n_frontend_src_app_customer",
+      "toNode": "n_frontend_src_app_shell",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_admin_frontend_src_app_shell",
+      "fromNode": "n_frontend_src_app_admin",
+      "toNode": "n_frontend_src_app_shell",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_appcontent_frontend_src_app_shell",
+      "fromNode": "n_frontend_src_app_appcontent",
+      "toNode": "n_frontend_src_app_shell",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_appcontent_frontend_src_app_auth",
+      "fromNode": "n_frontend_src_app_appcontent",
+      "toNode": "n_frontend_src_app_auth",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_menupage_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_menupage",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_menupage_frontend_src_app_flytocart",
+      "fromNode": "n_frontend_src_app_menupage",
+      "toNode": "n_frontend_src_app_flytocart",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_menupage_frontend_src_app_empty",
+      "fromNode": "n_frontend_src_app_menupage",
+      "toNode": "n_frontend_src_app_empty",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_customer_frontend_src_app_menupage",
+      "fromNode": "n_frontend_src_app_customer",
+      "toNode": "n_frontend_src_app_menupage",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_customer_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_customer",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_legacycart_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_legacycart",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_orders_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_orders",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_staffdashboard_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_staffdashboard",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_stafforders_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_stafforders",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_staffhistory_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_staffhistory",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_staffcustomers_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_staffcustomers",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_staffnotifications_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_staffnotifications",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_riderdashboard_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_riderdashboard",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_teammanagement_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_teammanagement",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_dashboard_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_dashboard",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_adminorders_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_adminorders",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_adminproducts_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_adminproducts",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_admincategories_frontend_src_app_pagetitle",
+      "fromNode": "n_frontend_src_app_admincategories",
+      "toNode": "n_frontend_src_app_pagetitle",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_riderassignmentsheet_frontend_src_app_modal",
+      "fromNode": "n_frontend_src_app_riderassignmentsheet",
+      "toNode": "n_frontend_src_app_modal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_usermanagement_frontend_src_app_modal",
+      "fromNode": "n_frontend_src_app_usermanagement",
+      "toNode": "n_frontend_src_app_modal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_adminproducts_frontend_src_app_modal",
+      "fromNode": "n_frontend_src_app_adminproducts",
+      "toNode": "n_frontend_src_app_modal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_admincategories_frontend_src_app_modal",
+      "fromNode": "n_frontend_src_app_admincategories",
+      "toNode": "n_frontend_src_app_modal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_orders_frontend_src_app_ratingmodal",
+      "fromNode": "n_frontend_src_app_orders",
+      "toNode": "n_frontend_src_app_ratingmodal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_frontend_src_app_riderassignmentsheet_frontend_src_app_sheet",
+      "fromNode": "n_frontend_src_app_riderassignmentsheet",
+      "toNode": "n_frontend_src_app_sheet",
+      "label": "calls [EXTRACTED]"
+    }
+  ]
+}

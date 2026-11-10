@@ -1,0 +1,380 @@
+{
+  "backend/api/addresses.php": {
+    "mtime": 1794288972.6106784,
+    "seen": 1794296432.6224606,
+    "ast_hash": "9bb2b8602d992c16302e4c5d70f98d3b",
+    "semantic_hash": ""
+  },
+  "backend/api/auth.php": {
+    "mtime": 1794288972.6440277,
+    "seen": 1794296432.6224697,
+    "ast_hash": "f7e0b87be5c728fd70b7765fccfac035",
+    "semantic_hash": ""
+  },
+  "backend/api/categories.php": {
+    "mtime": 1794288972.6611724,
+    "seen": 1794296432.6224735,
+    "ast_hash": "fdcc94d74bf10a0186418bf568cd6f22",
+    "semantic_hash": ""
+  },
+  "backend/api/get_notifications.php": {
+    "mtime": 1794288972.6725788,
+    "seen": 1794296432.622476,
+    "ast_hash": "5fd53a2cd6e1f0ff449db8584683ddb2",
+    "semantic_hash": ""
+  },
+  "backend/api/get_user_notifications.php": {
+    "mtime": 1794288972.6821325,
+    "seen": 1794296432.6224785,
+    "ast_hash": "9cf505f01e84ecb87ce0cebb42bc0702",
+    "semantic_hash": ""
+  },
+  "backend/api/orders.php": {
+    "mtime": 1794295943.9320812,
+    "seen": 1794296432.6224809,
+    "ast_hash": "c6ae71d728b601ff9885b6befc3bbaa2",
+    "semantic_hash": ""
+  },
+  "backend/api/products.php": {
+    "mtime": 1794288972.7590277,
+    "seen": 1794296432.6224833,
+    "ast_hash": "9c649e240b7d1a498f29fd87f5449e2d",
+    "semantic_hash": ""
+  },
+  "backend/api/ratings.php": {
+    "mtime": 1794288972.775169,
+    "seen": 1794296432.622486,
+    "ast_hash": "70e38fee010ffdc78406adaf730405b0",
+    "semantic_hash": ""
+  },
+  "backend/api/stats.php": {
+    "mtime": 1794288972.7848241,
+    "seen": 1794296432.6224883,
+    "ast_hash": "eef1fb53071b8c473a66fbf97ee1115a",
+    "semantic_hash": ""
+  },
+  "backend/config/database.php": {
+    "mtime": 1794288972.7958226,
+    "seen": 1794296432.6224906,
+    "ast_hash": "318fa72774bd387ef8e326a861910772",
+    "semantic_hash": ""
+  },
+  "backend/helpers/api.php": {
+    "mtime": 1794288972.8078225,
+    "seen": 1794296432.6224928,
+    "ast_hash": "326c6b9f14b875b2f3a868e0249bef45",
+    "semantic_hash": ""
+  },
+  "backend/helpers/auth.php": {
+    "mtime": 1794288972.8180013,
+    "seen": 1794296432.6224952,
+    "ast_hash": "409ccc633af3f5f9f9ffe397f1a76291",
+    "semantic_hash": ""
+  },
+  "backend/setup/seed_admin.php": {
+    "mtime": 1794288972.8286994,
+    "seen": 1794296432.6224976,
+    "ast_hash": "fa557e76c68fd98d78cec9e88a7f6440",
+    "semantic_hash": ""
+  },
+  "database/knk_database.sql": {
+    "mtime": 1794145588.766424,
+    "seen": 1794296432.6225002,
+    "ast_hash": "f02a99f0cb31704a111019143d98aeac",
+    "semantic_hash": ""
+  },
+  "database/role_migration.sql": {
+    "mtime": 1794145588.7699606,
+    "seen": 1794296432.6225019,
+    "ast_hash": "2d9ba8e050cdcc36f35c4317d5b52ad5",
+    "semantic_hash": ""
+  },
+  "frontend/package.json": {
+    "mtime": 1794288972.9149003,
+    "seen": 1794296432.6225042,
+    "ast_hash": "31c86738e934847af7de641fe60d4b1f",
+    "semantic_hash": ""
+  },
+  "frontend/public/sw.js": {
+    "mtime": 1794288972.9768496,
+    "seen": 1794296432.6225061,
+    "ast_hash": "8b84ba327a3d66e101fb48c47d3c8f04",
+    "semantic_hash": ""
+  },
+  "frontend/src/App.tsx": {
+    "mtime": 1794288974.2139604,
+    "seen": 1794296432.6225083,
+    "ast_hash": "881211654d9c3e09ac401e584dc29856",
+    "semantic_hash": ""
+  },
+  "frontend/src/Cart.tsx": {
+    "mtime": 1794288974.2860055,
+    "seen": 1794296432.6225107,
+    "ast_hash": "19c7f5897ab1a1c552f37227ff32bd5f",
+    "semantic_hash": ""
+  },
+  "frontend/src/api.ts": {
+    "mtime": 1794288973.1764,
+    "seen": 1794296432.6225128,
+    "ast_hash": "dcd1ef075fa5d737fcf1f02620f67e85",
+    "semantic_hash": ""
+  },
+  "frontend/src/main.tsx": {
+    "mtime": 1794288974.7188163,
+    "seen": 1794296432.6225157,
+    "ast_hash": "b5a8635d5119234fa90fe78fbb70fc0e",
+    "semantic_hash": ""
+  },
+  "frontend/src/vite-env.d.ts": {
+    "mtime": 1794292931.7043686,
+    "seen": 1794296432.6225176,
+    "ast_hash": "0352474ba2918efe13895edbc3780d94",
+    "semantic_hash": ""
+  },
+  "frontend/tsconfig.app.json": {
+    "mtime": 1794288974.7313292,
+    "seen": 1794296432.6225202,
+    "ast_hash": "7957ffa0d1233af14591980075289080",
+    "semantic_hash": ""
+  },
+  "frontend/tsconfig.json": {
+    "mtime": 1794288974.74285,
+    "seen": 1794296432.6225228,
+    "ast_hash": "cebcd0aef9a53b9c724ac53266f03437",
+    "semantic_hash": ""
+  },
+  "frontend/tsconfig.node.json": {
+    "mtime": 1794288974.7575252,
+    "seen": 1794296432.6225252,
+    "ast_hash": "573b475ed6c79c1c245b1f4692fa3c4b",
+    "semantic_hash": ""
+  },
+  "frontend/vite.config.ts": {
+    "mtime": 1794288974.7709012,
+    "seen": 1794296432.6225276,
+    "ast_hash": "a02050321bce020f3f1d25c497ef6488",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1794296681.070404,
+    "seen": 1794296751.3169372,
+    "ast_hash": "a75d106b5ae8adfc90c233097762db0f",
+    "semantic_hash": ""
+  },
+  "frontend/index.html": {
+    "mtime": 1794288972.907903,
+    "seen": 1794296432.6225345,
+    "ast_hash": "8afe75d5c32511c1147beae2d1c785d1",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/fonts/Bookshop/Bookshop.txt": {
+    "mtime": 1690865152.8510141,
+    "seen": 1794296432.6225367,
+    "ast_hash": "3bd35edf076cc796f2665ef3983ee1dd",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/fonts/kg_perfect_penmanship/KGFonts-TOU.txt": {
+    "mtime": 1411425008.0,
+    "seen": 1794296432.6225388,
+    "ast_hash": "2f0f98115f17f2869c1f59ba804af077",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/fonts/stay_with_me/Originfonts Font Usage Terms.txt": {
+    "mtime": 1784275302.0,
+    "seen": 1794296432.622541,
+    "ast_hash": "6b9eb4d71412e4e9238ef21fdac979ba",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/fonts/take_coffee/More Info.txt": {
+    "mtime": 1678405720.0,
+    "seen": 1794296432.6225438,
+    "ast_hash": "5f4ef875d26cc4722a878ed6ec80954d",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/fonts/stay_with_me/OriginFonts-EULA.pdf": {
+    "mtime": 1752561719.0,
+    "seen": 1794296432.6225464,
+    "ast_hash": "d87c948b121e0035da0fe618def530d9",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/fonts/take_coffee/Read Me.pdf": {
+    "mtime": 1672887198.0,
+    "seen": 1794296432.6225488,
+    "ast_hash": "cbfc18b15cb0c2e36117f145f22d3470",
+    "semantic_hash": ""
+  },
+  "VectorImageKnK/KnK_Vector_Logo.svg": {
+    "mtime": 1794121331.943717,
+    "seen": 1794296432.622551,
+    "ast_hash": "b5197a1c8dc001c256230ae962f0b555",
+    "semantic_hash": ""
+  },
+  "docs/ERD/KnK_ERD.png": {
+    "mtime": 1794158860.079849,
+    "seen": 1794296432.6225533,
+    "ast_hash": "8bbfce9ca269f1c4b2581a19cbf09026",
+    "semantic_hash": ""
+  },
+  "docs/ERD/KnK_ERD.svg": {
+    "mtime": 1794158858.2892118,
+    "seen": 1794296432.622556,
+    "ast_hash": "32680b5dce32a1987260d22281dc03e9",
+    "semantic_hash": ""
+  },
+  "docs/ERD/KnK_Online_Food_Delivery_System_ERD.png": {
+    "mtime": 1794160100.4978046,
+    "seen": 1794296432.6225584,
+    "ast_hash": "c7dbb704652d0188864065a5f07686ec",
+    "semantic_hash": ""
+  },
+  "docs/ERD/KnK_Online_Food_Delivery_System_ERD.svg": {
+    "mtime": 1794160121.1119938,
+    "seen": 1794296432.6225612,
+    "ast_hash": "b9cc533d5cdf644233c48f073ed01862",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/KnK_Vector_Green.svg": {
+    "mtime": 1794125117.296098,
+    "seen": 1794296432.6225638,
+    "ast_hash": "e1140ce9a8a5a529e1dd2a3ef1c8cbaf",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/KnK_Vector_Logo.svg": {
+    "mtime": 1794121331.943717,
+    "seen": 1794296432.6225662,
+    "ast_hash": "b5197a1c8dc001c256230ae962f0b555",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/beef-tapa.jpg": {
+    "mtime": 1794126650.8592756,
+    "seen": 1794296432.6225686,
+    "ast_hash": "e26aca7a71da6365328e15c0893f9225",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/champorado.jpg": {
+    "mtime": 1794126608.2450967,
+    "seen": 1794296432.622572,
+    "ast_hash": "f07d62b386d37c9ac86292c366e1f88b",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/chicken-adobo.jpg": {
+    "mtime": 1794126107.0619476,
+    "seen": 1794296432.6225746,
+    "ast_hash": "41843a32ec652927a23db46fdf846890",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/chicken-inasal.jpg": {
+    "mtime": 1794126713.4093037,
+    "seen": 1794296432.6225767,
+    "ast_hash": "40be1aac7103ba44d631174b2381cf74",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/fonts/Bookshop/Bookshop.png": {
+    "mtime": 1691685844.9152906,
+    "seen": 1794296432.6225786,
+    "ast_hash": "ae9856477495e49b5a99e0e91d2f3d19",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/fonts/take_coffee/Take Coffee.jpg": {
+    "mtime": 1678450482.0,
+    "seen": 1794296432.6225812,
+    "ast_hash": "8f4d8f28b256452b290871fe4b4cd086",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/beef-tapa.jpg": {
+    "mtime": 1794126650.8592756,
+    "seen": 1794296432.6225836,
+    "ast_hash": "e26aca7a71da6365328e15c0893f9225",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/champorado.jpg": {
+    "mtime": 1794126608.2450967,
+    "seen": 1794296432.622586,
+    "ast_hash": "f07d62b386d37c9ac86292c366e1f88b",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/chicken-adobo.jpg": {
+    "mtime": 1794126107.0619476,
+    "seen": 1794296432.6225884,
+    "ast_hash": "41843a32ec652927a23db46fdf846890",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/chicken-inasal.jpg": {
+    "mtime": 1794126713.4093037,
+    "seen": 1794296432.6225913,
+    "ast_hash": "40be1aac7103ba44d631174b2381cf74",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/halo-halo.jpg": {
+    "mtime": 1794126909.5569596,
+    "seen": 1794296432.6225932,
+    "ast_hash": "e2b08f43df75a901e73ec28d45e16634",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/iced-tea.jpg": {
+    "mtime": 1794126813.6375203,
+    "seen": 1794296432.6225955,
+    "ast_hash": "a6b16435a623f317c719ffb2dbf72849",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/knk-food-fallback.svg": {
+    "mtime": 1794140135.375917,
+    "seen": 1794296432.622598,
+    "ast_hash": "4f73e536474e08c3777f5712969af4d1",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/lumpia.jpg": {
+    "mtime": 1794127934.3431902,
+    "seen": 1794296432.6225998,
+    "ast_hash": "778fc6304e058baa16b6df6547c539b5",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/pancit-canton.jpg": {
+    "mtime": 1794126356.8171437,
+    "seen": 1794296432.6226025,
+    "ast_hash": "017cc1ff4f9565203154828c62f70560",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/foods/pork-sisig.jpg": {
+    "mtime": 1794126534.5803773,
+    "seen": 1794296432.6226203,
+    "ast_hash": "335374ef5fffedaa841af6d6ea0381a0",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/halo-halo.jpg": {
+    "mtime": 1794126909.5569596,
+    "seen": 1794296432.6226232,
+    "ast_hash": "e2b08f43df75a901e73ec28d45e16634",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/iced-tea.jpg": {
+    "mtime": 1794126813.6375203,
+    "seen": 1794296432.6226256,
+    "ast_hash": "a6b16435a623f317c719ffb2dbf72849",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/lumpia.jpg": {
+    "mtime": 1794127934.3431902,
+    "seen": 1794296432.6226282,
+    "ast_hash": "778fc6304e058baa16b6df6547c539b5",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/pancit-canton.jpg": {
+    "mtime": 1794126356.8171437,
+    "seen": 1794296432.6226304,
+    "ast_hash": "017cc1ff4f9565203154828c62f70560",
+    "semantic_hash": ""
+  },
+  "frontend/public/assets/pork-sisig.jpg": {
+    "mtime": 1794126534.5803773,
+    "seen": 1794296432.622633,
+    "ast_hash": "335374ef5fffedaa841af6d6ea0381a0",
+    "semantic_hash": ""
+  },
+  "KNK-AGENT-INSTRUCTIONS.md": {
+    "mtime": 1794296661.9276345,
+    "seen": 1794296751.316935,
+    "ast_hash": "2107add091946cc80224933947c48d32",
+    "semantic_hash": ""
+  }
+}

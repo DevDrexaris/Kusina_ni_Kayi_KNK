@@ -1,0 +1,126 @@
+---
+title: Kusina ni Kayi — Local MySQL Entity Relationship Diagram
+---
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#EEF3ED","primaryTextColor":"#292F2B","primaryBorderColor":"#285943","lineColor":"#68746D","secondaryColor":"#FAF8F2","tertiaryColor":"#FFFFFF","fontFamily":"Arial, sans-serif","fontSize":"16px"}}}%%
+erDiagram
+    direction LR
+
+    %% LOGICAL GROUP: Identity, access, and customer addresses
+    users {
+        int id PK "int unsigned, auto_increment"
+        varchar name "varchar(120)"
+        varchar email UK "varchar(190)"
+        varchar phone "varchar(30)"
+        varchar password_hash "varchar(255)"
+        enum role "customer | admin | staff | rider"
+        enum account_status "active | banned | deactivated | deleted"
+        tinyint availability "tinyint(1)"
+        timestamp created_at
+    }
+
+    customer_addresses {
+        bigint id PK "bigint unsigned, auto_increment"
+        int user_id FK "int unsigned"
+        enum label "Home | Work | Other"
+        varchar recipient_name "varchar(120)"
+        varchar contact_number "varchar(30)"
+        text delivery_address
+        tinyint is_default "tinyint(1)"
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    %% LOGICAL GROUP: Menu catalog
+    categories {
+        int id PK "int unsigned, auto_increment"
+        varchar name UK "varchar(80)"
+        varchar description "varchar(255)"
+        timestamp created_at
+    }
+
+    products {
+        int id PK "int unsigned, auto_increment"
+        int category_id FK "nullable"
+        varchar name "varchar(120)"
+        text description
+        decimal price "decimal(10,2)"
+        varchar image_path "varchar(255), nullable"
+        tinyint is_available "tinyint(1)"
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    %% LOGICAL GROUP: Orders, line items, and customer ratings
+    orders {
+        bigint id PK "bigint unsigned, auto_increment"
+        varchar order_number UK "varchar(30)"
+        int user_id FK "int unsigned"
+        varchar customer_name "varchar(120)"
+        varchar contact_number "varchar(30)"
+        text delivery_address
+        decimal subtotal "decimal(10,2)"
+        decimal delivery_fee "decimal(10,2)"
+        decimal total_amount "decimal(10,2)"
+        enum payment_method "COD"
+        enum status "Pending | Confirmed | Preparing | Accepted | Picked Up | Out for Delivery | Delivered | Cancelled"
+        varchar cancellation_reason "varchar(255), nullable"
+        int rider_id FK "nullable, int unsigned"
+        timestamp assigned_at "nullable"
+        int delivered_by_rider_id FK "nullable, int unsigned"
+        timestamp delivered_at "nullable"
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    order_items {
+        bigint id PK "bigint unsigned, auto_increment"
+        bigint order_id FK "bigint unsigned"
+        int product_id FK "nullable, int unsigned"
+        varchar product_name "varchar(120), order-time snapshot"
+        decimal unit_price "decimal(10,2), order-time snapshot"
+        int quantity "int unsigned"
+        decimal line_total "decimal(10,2)"
+    }
+
+    order_ratings {
+        bigint id PK "bigint unsigned, auto_increment"
+        bigint order_id FK "unique, bigint unsigned"
+        int user_id FK "int unsigned"
+        tinyint rating "tinyint unsigned"
+        varchar review "varchar(1000), nullable"
+        timestamp created_at
+    }
+
+    %% LOGICAL GROUP: Rider accountability and order notifications
+    delivery_assignments {
+        bigint id PK "bigint unsigned, auto_increment"
+        bigint order_id FK "bigint unsigned"
+        int rider_id FK "int unsigned"
+        int assigned_by_user_id FK "int unsigned"
+        timestamp assigned_at
+        timestamp ended_at "nullable"
+    }
+
+    admin_notifications {
+        bigint id PK "bigint unsigned, auto_increment"
+        bigint order_id FK "bigint unsigned"
+        varchar type "varchar(40)"
+        timestamp created_at
+        timestamp deleted_at "nullable"
+    }
+
+    %% Cardinality is derived from the live schema's foreign-key nullability
+    %% and unique constraints. All relationships below are database FKs.
+    users ||--o{ customer_addresses : owns
+    categories o|--o{ products : categorizes
+    users ||--o{ orders : places
+    users o|--o{ orders : assigned_rider
+    users o|--o{ orders : delivered_by
+    orders ||--o{ order_items : contains
+    products o|--o{ order_items : referenced_by
+    orders ||--o| order_ratings : receives
+    users ||--o{ order_ratings : writes
+    orders ||--o{ delivery_assignments : assignment_history
+    users ||--o{ delivery_assignments : assigned_rider
+    users ||--o{ delivery_assignments : assigned_by
+    orders ||--o{ admin_notifications : generates

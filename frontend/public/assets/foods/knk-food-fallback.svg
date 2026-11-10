@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <rect width="640" height="420" fill="#eef3ed"/>
+  <circle cx="320" cy="214" r="128" fill="#a8b9a5" opacity=".55"/>
+  <path d="M225 245c0-54 42-96 95-96s95 42 95 96H225Z" fill="#fff" stroke="#285943" stroke-width="10"/>
+  <path d="M208 246h224c0 47-50 84-112 84s-112-37-112-84Z" fill="#d98262" stroke="#285943" stroke-width="10"/>
+  <path d="M258 204c18-23 42-34 62-34s44 11 62 34" fill="none" stroke="#285943" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="286" cy="222" r="7" fill="#285943"/><circle cx="354" cy="222" r="7" fill="#285943"/>
+  <path d="M294 246c16 12 36 12 52 0" fill="none" stroke="#285943" stroke-width="8" stroke-linecap="round"/>
+  <text x="320" y="382" text-anchor="middle" fill="#285943" font-family="Arial,sans-serif" font-size="24" font-weight="700">Kusina ni Kayi</text>
+</svg>

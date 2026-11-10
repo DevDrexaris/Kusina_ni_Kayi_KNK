@@ -1,0 +1,11 @@
+{
+  "name": "Kusina ni Kayi Admin",
+  "short_name": "KnK Admin",
+  "start_url": "/admin",
+  "display": "standalone",
+  "background_color": "#FAF8F2",
+  "theme_color": "#285943",
+  "icons": [
+    { "src": "/assets/KnK_Vector_Logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
